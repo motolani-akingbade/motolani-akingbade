@@ -27,6 +27,6 @@ With 3 years of diverse experience in the cooperate technology space and a numbe
 <br/>
 <br/>
 
-[![Motolani's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=motolani-akingbade&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=50#gh-dark-mode-only)]
+![Motolani's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=motolani-akingbade&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=50#gh-dark-mode-only)
 [![Github Streak](https://streak-stats.demolab.com/?user=motolani-akingbade&theme=dark&hide_border=true0)](https://git.io/streak-stats)
           
