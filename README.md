@@ -2,7 +2,10 @@
 
 With 3 years of diverse experience in the cooperate technology space and a number of years in educational space with certificates, I have passion for crafting seamless and scalable applications, I approach software development with a focus on both innovation and efficiency. My deep understanding of backend and frontend technologies, including Javascript, Python, and PostgreSQL, has allowed me to streamline operations and solve complex challenges in distributed systems. Additionally, I have experience working with AI and machine learning, developing models that enhance data-driven decision-making processes. Eager to learn and adapt, I enjoy collaborating with cross-functional teams to deliver high-quality solutions that push the boundaries of technology.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy-gif" width"400" height"320/>
+<p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy-gif" width"400" height"320/>
+</p>
+
 
 ## 🤖 Languages and Tools
 
