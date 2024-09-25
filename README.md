@@ -1,6 +1,8 @@
 # 👋🏿 👻 Heyy, I am Motolani Akingbade 
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding">
+</p>
 
 With 3 years of diverse experience in the corporate technology space and a number of years in the educational space with certifications, I have a passion for crafting seamless and scalable applications. I approach software development with a focus on both innovation and efficiency. My deep understanding of backend and frontend technologies, including JavaScript, Python, and PostgreSQL, has allowed me to streamline operations and solve complex challenges in distributed systems. Additionally, I have experience working with AI and machine learning, developing models that enhance data-driven decision-making processes.
 
@@ -15,7 +17,9 @@ I am constantly seeking to learn and adapt to new technologies and enjoy collabo
 - **Collaboration & Leadership**: Adept at working with cross-functional teams to drive innovation and high-quality software solutions.
 - **Continuous Learning**: Always eager to learn, experiment, and adapt to new technologies.
 
-![AI & Machine Learning](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="AI & Machine Learning">
+</p>
 
 ---
 
@@ -45,5 +49,3 @@ I am constantly seeking to learn and adapt to new technologies and enjoy collabo
 ![Motolani's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=motolani-akingbade&hide=contribs,prs&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=50#gh-dark-mode-only)
 
 [![Github Streak](https://streak-stats.demolab.com/?user=motolani-akingbade&theme=dark&hide_border=true0)](https://git.io/streak-stats)
-
-![Coding Work](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
