@@ -22,10 +22,6 @@ With 3 years of diverse experience in the cooperate technology space and a numbe
 </p>
 
 
-## 📲 Let's Connect
-
-- <img align="center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="OpenCV" width="35" height"35" /> [LinkedIn](https://www.linkedin.com/in/motolani-akingbade/)
-
 <br/>
 <br/>
 <br/>
