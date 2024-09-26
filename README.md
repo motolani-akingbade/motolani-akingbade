@@ -10,6 +10,11 @@ I am constantly seeking to learn and adapt to new technologies and enjoy collabo
 
 ---
 
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Motolani%20Akingbade-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/motolani-akingbade/)
+
+---
+
 ## 💼 Key Skills and Interests
 - **Backend & Frontend Technologies**: Proficient in building applications with JavaScript, Python, React, Node.js, and PostgreSQL.
 - **Distributed Systems**: Specialize in solving challenges and optimizing system performance.
